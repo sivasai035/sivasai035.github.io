@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Myjourney</title>
+        <meta name="veiwport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="ticketingcss.css">
+        <link rel="icon" href="ticketingimg.jpg" type="image/gif">
+    </head>
+    <body>
+        <h1>We make your journey simple!!</h1>
+        <div>
+            
+        <div>
+            <img id="aa" src="ticketingimg.jpg" alt="img">        </div>
+    </body>
+</html>
