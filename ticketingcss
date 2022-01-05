@@ -1,0 +1,11 @@
+h1{
+    background-color: rgb(114, 7, 7);
+    color: rgb(252, 250, 250);
+    text-align: center;
+    height: 40px;
+    margin: auto;
+}
+#aa{
+    width: 100%;
+    height: auto;
+}
